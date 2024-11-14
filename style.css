@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(233, 248, 242);
+}
+
+h1 ,h2 {
+    text-align: center;
+    color: blue;
+}
+img {
+    height: 400px;
+    width: 400px;
+}
+section {
+    display: flex;
+    justify-content: space-around;
+
+}
+.right{
+    width: 30%;
+}
+p{
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.s2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.left2{
+    width: 30%;
+}
+ul{
+    font-size:  20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.gallery {
+    height: 250px;
+    width: 245px;
+}
